@@ -1,0 +1,7 @@
+Country one_hotencoding
+US_State one_hotencoding
+UK_Country one_hotencoding
+MainBranch one_hotencoding
+Employment one_hotencoding till we find biz logic
+
+
